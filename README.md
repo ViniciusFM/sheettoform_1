@@ -23,7 +23,7 @@
     > .venv\Scripts\activate
 
     linux terminal:
-    $ source .env/bin/activate
+    $ source .venv/bin/activate
     ```
 
 ## Instale as bibliotecas necessárias
